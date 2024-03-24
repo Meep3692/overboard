@@ -1,0 +1,7 @@
+name: Overboard
+version: '${project.version}'
+main: ca.awoo.overboard.Overboard
+commands:
+  nop:
+    description: Do nothing.
+    usage: /<command>
